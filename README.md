@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @zacki99
-- 👀 I’m interested in Marketing/ New Technologies/ Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+'I have no special talents. I am only passionately curious' - Albert Einstein
+
+Zackaria is passionate about everything related to #Startups, Growth Hacking, and New Technologies.
 
 <!---
 zacki99/zacki99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
